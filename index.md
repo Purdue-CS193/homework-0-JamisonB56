@@ -14,6 +14,10 @@ Hi this is jamison
 # Header 1
 ## Header 2
 ### Header 3
+My Favorite Things about CS193 is that...
+- I will get to learn how to use github!
+- I will get to learn from other students!
+- I will make new friends in the classroom environment!
 
 - Bulleted
 - List
